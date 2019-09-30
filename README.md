@@ -1,1 +1,5 @@
-DocsBuilder
+---
+sidebar: auto
+collapsable: true
+---
+
